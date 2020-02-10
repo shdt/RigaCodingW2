@@ -1,0 +1,11 @@
+C:\Users\maksims.tabaks\source\repos\w2_day1\obj\Debug\netcoreapp2.1\w2_day1.csproj.CoreCompileInputs.cache
+C:\Users\maksims.tabaks\source\repos\w2_day1\obj\Debug\netcoreapp2.1\w2_day1.AssemblyInfoInputs.cache
+C:\Users\maksims.tabaks\source\repos\w2_day1\obj\Debug\netcoreapp2.1\w2_day1.AssemblyInfo.cs
+C:\Users\maksims.tabaks\source\repos\w2_day1\bin\Debug\netcoreapp2.1\w2_day1.deps.json
+C:\Users\maksims.tabaks\source\repos\w2_day1\bin\Debug\netcoreapp2.1\w2_day1.runtimeconfig.json
+C:\Users\maksims.tabaks\source\repos\w2_day1\bin\Debug\netcoreapp2.1\w2_day1.runtimeconfig.dev.json
+C:\Users\maksims.tabaks\source\repos\w2_day1\bin\Debug\netcoreapp2.1\w2_day1.dll
+C:\Users\maksims.tabaks\source\repos\w2_day1\bin\Debug\netcoreapp2.1\w2_day1.pdb
+C:\Users\maksims.tabaks\source\repos\w2_day1\obj\Debug\netcoreapp2.1\w2_day1.dll
+C:\Users\maksims.tabaks\source\repos\w2_day1\obj\Debug\netcoreapp2.1\w2_day1.pdb
+C:\Users\maksims.tabaks\source\repos\w2_day1\obj\Debug\netcoreapp2.1\w2_day1.csprojAssemblyReference.cache
